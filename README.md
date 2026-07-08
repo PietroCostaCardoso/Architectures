@@ -1,4 +1,4 @@
-# Arquitetura / Architecture
+# software architecture
 
 [Português](#versão-em-português) | [English](#english-version)
 
