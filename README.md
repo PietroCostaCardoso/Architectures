@@ -6,7 +6,7 @@
 
 ## Versão em Português
 
-Este repositório foi criado para centralizar, organizar e documentar a estrutura de pastas e as responsabilidades técnicas das arquiteturas mais cobradas pelo mercado de tecnologia...
+Este repositório foi criado para centralizar, organizar e documentar a estrutura de pastas e as responsabilidades técnicas das arquiteturas mais cobradas pelo mercado de tecnologia..
 
 ### Aviso Importante:
 Este projeto foi desenvolvido com foco estrito em **design de software e estudo conceitual**. As arquiteturas de nível avançado e distribuído (como *CQRS, Event-Driven e Saga Pattern*) estão documentadas aqui para fins de aprendizado teórico e de boas práticas de mercado. Elas representam meu interesse em entender problemas, não refletindo necessariamente ferramentas que implemento de olhos fechados em produção no meu dia a dia técnico.
